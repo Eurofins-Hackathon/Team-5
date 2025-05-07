@@ -1,0 +1,14 @@
+C:\Users\RajanD\OneDrive - Eurofins ITWW\Documents\copilet\battleship game board\cligame\Battleship\obj\Debug\net9.0\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajanD\OneDrive - Eurofins ITWW\Documents\copilet\battleship game board\cligame\Battleship\obj\Debug\net9.0\Battleship.AssemblyInfoInputs.cache
+C:\Users\RajanD\OneDrive - Eurofins ITWW\Documents\copilet\battleship game board\cligame\Battleship\obj\Debug\net9.0\Battleship.AssemblyInfo.cs
+C:\Users\RajanD\OneDrive - Eurofins ITWW\Documents\copilet\battleship game board\cligame\Battleship\obj\Debug\net9.0\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\RajanD\OneDrive - Eurofins ITWW\Documents\copilet\battleship game board\cligame\Battleship\bin\Debug\net9.0\Battleship.exe
+C:\Users\RajanD\OneDrive - Eurofins ITWW\Documents\copilet\battleship game board\cligame\Battleship\bin\Debug\net9.0\Battleship.deps.json
+C:\Users\RajanD\OneDrive - Eurofins ITWW\Documents\copilet\battleship game board\cligame\Battleship\bin\Debug\net9.0\Battleship.runtimeconfig.json
+C:\Users\RajanD\OneDrive - Eurofins ITWW\Documents\copilet\battleship game board\cligame\Battleship\bin\Debug\net9.0\Battleship.dll
+C:\Users\RajanD\OneDrive - Eurofins ITWW\Documents\copilet\battleship game board\cligame\Battleship\bin\Debug\net9.0\Battleship.pdb
+C:\Users\RajanD\OneDrive - Eurofins ITWW\Documents\copilet\battleship game board\cligame\Battleship\obj\Debug\net9.0\Battleship.dll
+C:\Users\RajanD\OneDrive - Eurofins ITWW\Documents\copilet\battleship game board\cligame\Battleship\obj\Debug\net9.0\refint\Battleship.dll
+C:\Users\RajanD\OneDrive - Eurofins ITWW\Documents\copilet\battleship game board\cligame\Battleship\obj\Debug\net9.0\Battleship.pdb
+C:\Users\RajanD\OneDrive - Eurofins ITWW\Documents\copilet\battleship game board\cligame\Battleship\obj\Debug\net9.0\Battleship.genruntimeconfig.cache
+C:\Users\RajanD\OneDrive - Eurofins ITWW\Documents\copilet\battleship game board\cligame\Battleship\obj\Debug\net9.0\ref\Battleship.dll
